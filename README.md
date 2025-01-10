@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![codewars](https://www.codewars.com/users/Linar4ik/badges/large)]([https://www.codewars.com/users/Linar4ik](https://www.codewars.com/users/Linar4ik))  
-[![Codewars](https://github.r2v.ch/codewars?user=USERNAME)](LINK)
+[![Codewars](https://github.r2v.ch/codewars?user=Linar4ik)]([LINK](https://www.codewars.com/users/Linar4ik))

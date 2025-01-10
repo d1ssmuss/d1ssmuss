@@ -3,6 +3,8 @@
 <!--
 **d1ssmuss/d1ssmuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![codewars](https://www.codewars.com/users/Linar4ik/badges/large)]([https://www.codewars.com/users/Linar4ik](https://www.codewars.com/users/Linar4ik))  
+[![Codewars](https://github.r2v.ch/codewars?user=Linar4ik)]([LINK](https://www.codewars.com/users/Linar4ik))
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,5 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![codewars](https://www.codewars.com/users/Linar4ik/badges/large)]([https://www.codewars.com/users/Linar4ik](https://www.codewars.com/users/Linar4ik))  
-[![Codewars](https://github.r2v.ch/codewars?user=Linar4ik)]([LINK](https://www.codewars.com/users/Linar4ik))
+![Codewars](https://github.r2v.ch/codewars?user=Linar4ik&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)

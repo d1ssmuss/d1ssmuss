@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 -->
 ![Codewars](https://github.r2v.ch/codewars?user=Linar4ik&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
 ![](https://komarev.com/ghpvc/?username=d1ssmuss)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=d1ssmuss&theme=dark)](https://github.com/d1ssmuss/leetcode-stats)

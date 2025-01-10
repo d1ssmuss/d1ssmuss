@@ -5,6 +5,7 @@
 
 [![codewars](https://www.codewars.com/users/Linar4ik/badges/large)]([https://www.codewars.com/users/Linar4ik](https://www.codewars.com/users/Linar4ik))  
 [![Codewars](https://github.r2v.ch/codewars?user=Linar4ik)]([LINK](https://www.codewars.com/users/Linar4ik))
+![](https://komarev.com/ghpvc/?username=d1ssmuss)
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -16,5 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Codewars](https://github.r2v.ch/codewars?user=Linar4ik&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
-![](https://komarev.com/ghpvc/?username=d1ssmuss)
-![LeetCode Stats](https://leetcard.jacoblin.cool/d1ssmuss?theme=dark&font=Spectral)
+![LeetCode Stats](https://leetcard.jacoblin.cool/d1ssmuss?theme=dark&font=Shippori%20Antique)

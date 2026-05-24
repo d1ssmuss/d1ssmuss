@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Codewars](https://github.r2v.ch/codewars?user=Linar4ik&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
-![Profile Views](https://komarev.com/ghpvc/?username=d1ssmuss&color=blue)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/d1ssmuss?theme=dark&font=Shippori%20Antique)
+![Profile Views](https://komarev.com/ghpvc/?username=d1ssmuss&color=blue)
